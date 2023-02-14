@@ -1,4 +1,4 @@
-### Hello, my name is Vinicius and I am a Data Scientist!
+### Hello, my name is Vinicius and I'm a Data Scientist!
 
 <div align="center">
   <a href="https://github.com/viniciusnalasantos">
