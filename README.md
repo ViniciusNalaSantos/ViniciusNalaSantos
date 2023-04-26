@@ -1,4 +1,4 @@
-### Hello, my name is Vinicius and I'm a Data Scientist!
+### Hello, my name is Vinicius!
 
 <div align="center">
   <a href="https://github.com/viniciusnalasantos">
@@ -17,7 +17,7 @@
 ##
   
 <div>
-  <a href="https://www.linkedin.com/in/vinicius-nala-santos-4b282a228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/vinicius-nala-4b282a228" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://medium.com/@viniciusnala" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://www.kaggle.com/viniciusnalasantos" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
   <a href="https://www.hackerrank.com/vinicius_nala" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
