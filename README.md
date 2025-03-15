@@ -5,7 +5,7 @@
 I'm Vinícius Nala, a software engineer who thrives on creating high-performance applications. Whether it's backend logic, APIs, or frontend magic, I enjoy turning ideas into reality with clean, efficient code. Always excited to collaborate and contribute! 🚀
 
 <h2>About me</h2>
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="450">
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="400">
 <ul>
   <li>🎓 Currently studying for a degree in Computational Engineering</li><br>
   <li>☕ Turning coffee into code</li><br>
